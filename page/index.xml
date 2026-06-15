@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on 云上百宝铺</title>
+        <link>https://baibaopu.github.io/page/</link>
+        <description>Recent content in Pages on 云上百宝铺</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>云上百宝铺</copyright>
+        <lastBuildDate>Wed, 14 Jan 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://baibaopu.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>归档</title>
+        <link>https://baibaopu.github.io/archives/</link>
+        <pubDate>Wed, 14 Jan 2026 00:00:00 +0800</pubDate>
+        
+        <guid>https://baibaopu.github.io/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>https://baibaopu.github.io/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://baibaopu.github.io/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;h1 id=&#34;云上百宝铺&#34;&gt;云上百宝铺
+&lt;/h1&gt;&lt;p&gt;欢迎来到云上百宝铺！这是一个免费分享好资料的博客网站，致力于把优质的电子书、资源分享给更多人。&lt;/p&gt;
+&lt;h2 id=&#34;关于本项目&#34;&gt;关于本项目
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;网站地址&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://baibaopu.github.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://baibaopu.github.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;部署仓库&lt;/strong&gt;: &lt;a class=&#34;link&#34; href=&#34;https://github.com/baibaopu/baibaopu.github.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://github.com/baibaopu/baibaopu.github.io&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;技术栈&#34;&gt;技术栈
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;静态站点生成器&lt;/strong&gt;: Hugo&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;主题&lt;/strong&gt;: Hugo Theme Stack&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;托管&lt;/strong&gt;: GitHub Pages&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CI/CD&lt;/strong&gt;: GitHub Actions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;资料分享&lt;/strong&gt;: 夸克网盘&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;内容贡献&#34;&gt;内容贡献
+&lt;/h2&gt;&lt;p&gt;如果你想分享好资料，欢迎提交 PR！&lt;/p&gt;
+&lt;h2 id=&#34;许可证&#34;&gt;许可证
+&lt;/h2&gt;&lt;p&gt;MIT License&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://baibaopu.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://baibaopu.github.io/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>友情链接</title>
+        <link>https://baibaopu.github.io/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://baibaopu.github.io/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

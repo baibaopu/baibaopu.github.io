@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Test on 云上百宝铺</title>
+        <link>https://baibaopu.github.io/categories/</link>
+        <description>Recent content in Test on 云上百宝铺</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>云上百宝铺</copyright>
+        <lastBuildDate>Tue, 09 Jun 2026 14:30:00 +0800</lastBuildDate><atom:link href="https://baibaopu.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>副业推荐</title>
+        <link>https://baibaopu.github.io/categories/%E5%89%AF%E4%B8%9A%E6%8E%A8%E8%8D%90/</link>
+        <pubDate>Tue, 09 Jun 2026 14:30:00 +0800</pubDate>
+        
+        <guid>https://baibaopu.github.io/categories/%E5%89%AF%E4%B8%9A%E6%8E%A8%E8%8D%90/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>主题班会课件</title>
+        <link>https://baibaopu.github.io/categories/%E4%B8%BB%E9%A2%98%E7%8F%AD%E4%BC%9A%E8%AF%BE%E4%BB%B6/</link>
+        <pubDate>Wed, 27 May 2026 12:46:13 +0800</pubDate>
+        
+        <guid>https://baibaopu.github.io/categories/%E4%B8%BB%E9%A2%98%E7%8F%AD%E4%BC%9A%E8%AF%BE%E4%BB%B6/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>老电影修复</title>
+        <link>https://baibaopu.github.io/categories/%E8%80%81%E7%94%B5%E5%BD%B1%E4%BF%AE%E5%A4%8D/</link>
+        <pubDate>Sun, 14 Sep 2025 14:44:15 +0800</pubDate>
+        
+        <guid>https://baibaopu.github.io/categories/%E8%80%81%E7%94%B5%E5%BD%B1%E4%BF%AE%E5%A4%8D/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>好书推荐</title>
+        <link>https://baibaopu.github.io/categories/%E5%A5%BD%E4%B9%A6%E6%8E%A8%E8%8D%90/</link>
+        <pubDate>Sat, 30 Dec 2023 20:10:09 +0800</pubDate>
+        
+        <guid>https://baibaopu.github.io/categories/%E5%A5%BD%E4%B9%A6%E6%8E%A8%E8%8D%90/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
