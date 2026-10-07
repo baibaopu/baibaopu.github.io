@@ -1,0 +1,14 @@
+{
+  "models": [
+    "izumi",
+    "ShizukuTalk/shizuku-48",
+    "bilibili-live/33",
+    "KantaiCollection/murakumo"
+  ],
+  "messages": [
+    "izumi",
+    "ShizukuTalk/shizuku-48",
+    "bilibili-live/33",
+    "KantaiCollection/murakumo"
+  ]
+}
